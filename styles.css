@@ -1,0 +1,48 @@
+#pic {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+html {
+    font-family: arial, helvetica, sans-serif;
+}
+
+.label {
+    font-weight: bold;
+}
+
+#card {
+    width: 300px;
+    border: 1px solid #cccccc;
+}
+
+.title {
+    font-weight: bold;
+    /* font-variant: small-caps; */
+}
+
+#interesting-fact {
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#facts {
+    list-style: none;
+    padding: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#container {
+    border: 1px solid #cccccc;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 5px 5px rgba(120, 100, 100, 0.3);
+    margin: 0px;
+}
+
+#summary {
+    margin-left: 10px;
+    margin-right: 10px;
+}
